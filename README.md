@@ -1,7 +1,8 @@
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 # yolov4_UAV_test_results
 Test results a Unmanned Aerial Vehicles (UAV) image dataset with yolov4 object detection model. Convert orijinal images to video by FFmpeg.
 
-![moonstarsky37/yolov4_uav_test_results/master/results_01.png](https://raw.githubusercontent.com/moonstarsky37/yolov4_uav_test_results/master/results_01.png =300x300)
+![moonstarsky37/yolov4_uav_test_results/master/results_01.png](https://raw.githubusercontent.com/moonstarsky37/yolov4_uav_test_results/master/results_01.png)
 ## Dataset
 I using the images in this datasets and convert images to video for inference.
 * site: https://sites.google.com/view/grli-uavdt/
